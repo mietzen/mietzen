@@ -2,7 +2,7 @@
 
 I'm a studied mechanical engineer focused on renewable energy systems and a self taught software developer. 
 
-I've professional experince as Data Engineer / Sciencentist, DevOps-Engineer and Linux SysOp (Debian).
+I've professional experience as Data Engineer / Scientist, DevOps-Engineer and Linux SysOp (Debian).
 
 I'm currently building a cloud based Data Science Platform at [GP-Joule](https://gp-joule.de).
 
