@@ -1,4 +1,16 @@
-Hi I'm Nils, a dedicated mechanical engineer with a keen focus on renewable energy systems and self thaught software engineer. I got many years of experience as DevOps and Data Engineer. Recently I switched into a managment role as Technical Projectmanager.
+Hi I'm Nils,\
+a mechanical engineer focused on renewable energy systems and self thaught developer. I got many years of experience as Software and DevOps Engineer. Recently I switched into a managment role as Technical Projectmanager.
+
+### Active Projects:
+
+#### Maintainer / Creator
+- [porkbun-ddns](https://github.com/mietzen/porkbun-ddns): An unoffical DDNS-Client for Porkbun Domains
+- [juliamono-nerd-font](https://github.com/mietzen/juliamono-nerd-font): Julia Mono Font with added Nerd-Fonts glyphs
+- [docker-redsocks-proxy](https://github.com/mietzen/docker-redsocks-proxy): Tunnel TCP Trafic through a SOCKS5 Proxy
+
+#### Contributor
+- [proxmox_pct_remote (ansible-plugin)](https://github.com/ansible-collections/community.general/blob/main/plugins/connection/proxmox_pct_remote.py): Remotely configure Proxmox containers without ssh
+- [dynamic_dns.ip_sources.command (Caddy module)](https://caddyserver.com/docs/modules/dynamic_dns.ip_sources.command): Command IP source for caddy-dynamicdns
 
 ### GitHub stats:
 
