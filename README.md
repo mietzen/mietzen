@@ -9,7 +9,7 @@ a mechanical engineer focused on renewable energy systems and self thaught devel
 - [docker-redsocks-proxy](https://github.com/mietzen/docker-redsocks-proxy): Tunnel TCP Trafic through a SOCKS5 Proxy
 
 #### Contributor
-- [proxmox_pct_remote (ansible-plugin)](https://github.com/ansible-collections/community.general/blob/main/plugins/connection/proxmox_pct_remote.py): Remotely configure Proxmox containers without ssh
+- [proxmox_pct_remote (ansible-plugin)](https://docs.ansible.com/ansible/latest/collections/community/general/proxmox_pct_remote_connection.html): Remotely configure Proxmox containers without ssh
 - [dynamic_dns.ip_sources.command (Caddy module)](https://caddyserver.com/docs/modules/dynamic_dns.ip_sources.command): Command IP source for caddy-dynamicdns
 
 ### GitHub stats:
