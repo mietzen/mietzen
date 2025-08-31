@@ -12,7 +12,7 @@ a mechanical engineer focused on renewable energy systems and self thaught devel
 - [proxmox_pct_remote (ansible-plugin)](https://docs.ansible.com/ansible/latest/collections/community/general/proxmox_pct_remote_connection.html): Remotely configure Proxmox containers without ssh
 - [dynamic_dns.ip_sources.command (Caddy module)](https://caddyserver.com/docs/modules/dynamic_dns.ip_sources.command): Command IP source for caddy-dynamicdns
 
-You can find [the complete list](https://github.com/mietzen?tab=repositories&q=archived%3Afalse%20topic%3Adev&type=source&language&sort) of all repos I'm currently working on.
+You can also take a look at [the complete list](https://github.com/mietzen?tab=repositories&q=archived%3Afalse%20topic%3Adev&type=source&language&sort) of repos I'm actively working on.
 
 ### GitHub stats:
 
