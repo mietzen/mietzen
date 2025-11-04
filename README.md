@@ -14,6 +14,10 @@ a mechanical engineer focused on renewable energy systems and self thaught devel
 
 You can also take a look at [the complete list](https://github.com/mietzen?tab=repositories&q=archived%3Afalse%20topic%3Adev&type=source&language&sort) of repos I'm actively working on.
 
+#### Tutorials:
+
+- [Azure AKS - Argo CD Tutorial](https://github.com/mietzen/AKS-ArgoCD-tutorial): Tutorial to setup Argo CD on AKS with traefik and deploy the K8S Guestbook example 
+
 ### GitHub stats:
 
 | <a href="https://github.com/mietzen"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mietzen&show_icons=true&custom_title=My%20Stats&theme=transparent&hide_border=true&rank_icon=percentile&hide=contribs" alt="Anurag's github stats" /></a> | <a href="https://github.com/mietzen"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mietzen&layout=compact&size_weight=0.5&count_weight=0.5&theme=transparent&hide_border=true&langs_count=5&hide=html" /></a> |
