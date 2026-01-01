@@ -1,5 +1,5 @@
 Hi I'm Nils,\
-a mechanical engineer focused on renewable energy systems and self thaught developer. I got many years of experience as Software and DevOps Engineer. Recently I switched into a Projectmanagment role.
+a mechanical engineer focused on renewable energy systems and self thaught developer. I got many years of experience as Software and DevOps Engineer.
 
 ### Active Projects:
 
