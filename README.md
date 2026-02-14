@@ -29,5 +29,5 @@ You can also take a look at [the complete list](https://github.com/mietzen?tab=r
 
 ### GitHub stats:
 
-| <a href="https://github.com/mietzen"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mietzen&show_icons=true&custom_title=My%20Stats&theme=transparent&hide_border=true&rank_icon=percentile&hide=contribs" alt="Anurag's github stats" /></a> | <a href="https://github.com/mietzen"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mietzen&layout=compact&size_weight=0.5&count_weight=0.5&theme=transparent&hide_border=true&langs_count=5&hide=html" /></a> |
+| <a href="https://github.com/stats-organization"><img align="center" src="./profile/stats.svg" alt="Github activity statistics" /></a> | <a href="https://github.com/stats-organization"><img align="center" src="./profile/top-langs.svg" alt="Github language statistics"/></a> |
 |---|---|
