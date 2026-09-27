@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">My Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 488, Total Commits  (last year) : 1474, Total PRs: 780, Total Issues: 309</desc>
+        <desc id="descId">Total Stars Earned: 488, Total Commits  (last year) : 1475, Total PRs: 780, Total Issues: 309</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 31.06115492025776;
+        stroke-dashoffset: 31.059207322408174;
       }
     }
   
